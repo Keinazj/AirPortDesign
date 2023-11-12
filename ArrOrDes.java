@@ -1,0 +1,3 @@
+public enum ArrOrDes {
+    DESTINATION,ARRIVAL,CONNECTING
+}
